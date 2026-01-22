@@ -1,0 +1,5 @@
+name = "MLiSRegistry"
+uuid = "25a7db02-d7a1-43fe-83c9-5e63afd352aa"
+repo = "git@github.com:MLiS-Research/MLiSRegistry.jl.git"
+
+[packages]
