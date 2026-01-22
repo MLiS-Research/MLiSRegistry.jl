@@ -1,0 +1,3 @@
+name = "TransitionPathSampling"
+uuid = "90a4db8d-a042-44ed-af16-fb847fa05318"
+repo = "git@github.com:MLiS-Research/TransitionPathSampling.jl.git"
