@@ -6,3 +6,4 @@ repo = "git@github.com:MLiS-Research/MLiSRegistry.jl.git"
 0f07a834-652b-47c2-8205-950502167029 = { name = "SimpleNNs", path = "S/SimpleNNs" }
 85925cec-8867-4b89-97f8-2678e9e2c187 = { name = "NNE", path = "N/NNE" }
 90a4db8d-a042-44ed-af16-fb847fa05318 = { name = "TransitionPathSampling", path = "T/TransitionPathSampling" }
+efb0be97-3ee7-40d0-9fa9-b89a797c88dc = { name = "SubmitPaper", path = "S/SubmitPaper" }
